@@ -23,5 +23,6 @@ def adding
                   "oil paintings" => 3
                  }
 shipping_manifest["China dolls"] = 4
+shipping_manifest
 
 end
