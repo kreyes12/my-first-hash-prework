@@ -22,6 +22,6 @@ def adding
                   "porcelain vases" => 2, 
                   "oil paintings" => 3
                  }
-shipping_manifest["China dolls"] = 1
+shipping_manifest["China dolls"] = 4
 
 end
